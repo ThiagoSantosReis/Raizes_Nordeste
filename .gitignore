@@ -1,0 +1,15 @@
+# Relatório acadêmico
+documento_entrega.md
+documento_entrega.pdf
+
+# Imagens de diagramas e prints do relatório
+diagrama_interacao_atores.png
+diagrama_jornada_usuario.png
+image.png
+image-*.png
+
+img/diagrama_interacao_atores.png
+img/diagrama_jornada_usuario.png
+img/uninter_logo.png
+img/wireframe_*.png
+wireframe_*.png
